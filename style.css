@@ -1,0 +1,38 @@
+body{
+	background:#FFBABA ;
+	color:red;
+	font-family: Helvetica;
+	font-size: 16px;
+}
+
+h1{
+	color: blue;
+	font-family: courier;
+	
+}
+
+h2{
+	color: rgb(100, 100, 100);
+	font-family: courier;
+	font-weight: lighter;
+}
+
+a{
+	text-decoration: none;
+
+	color: yellow;
+}
+
+a:hover{
+	background: green;
+}
+
+h1,h2,h3{
+	font-family: prata;
+	font-size: 48px;
+}
+
+p{
+	font-family: lobster;
+	font-size: 32px;
+}
